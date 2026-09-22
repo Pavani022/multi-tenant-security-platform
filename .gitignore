@@ -1,0 +1,35 @@
+# Node dependencies
+node_modules/
+*/node_modules/
+
+# Secrets and local environment files
+.env
+.env.local
+.env.*.local
+*.env
+backend/.env
+frontend/.env
+!.env.example
+!*/.env.example
+
+# Build outputs
+dist/
+*/dist/
+build/
+*/build/
+
+# Vite Cache
+.vite/
+*/.vite/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor & OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
