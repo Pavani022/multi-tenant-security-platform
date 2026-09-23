@@ -1,8 +1,7 @@
 # Deep Trace Cybernetics — Multi-Tenant Security Platform
 
 > **Full Stack Developer Technical Assessment Submission**  
-> **Stack:** Node.js / Express.js • React 19 / Vite • MySQL 8.0 • Tailwind CSS • JWT • RBAC  
-> **Submission Deadline:** 23 September 2026, 6:00 PM IST  
+> **Stack:** Node.js / Express.js • React 19 / Vite • MySQL 8.0 • Tailwind CSS • JWT • RBAC   
 
 ---
 
